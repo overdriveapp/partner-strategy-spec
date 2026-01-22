@@ -268,5 +268,3 @@ Each signal includes:
 | Donchian Channel | 20 | Breakout identification |
 | EMA | 20 | Stop loss placement |
 | Volume SMA | 20 | Confidence scoring |
-
----
