@@ -161,6 +161,39 @@ This initial integration is intended as an **MVP**:
 
 ---
 
+## ✅ Pre-Submission Checklist
+
+Before sending this strategy to Overdrive, please verify:
+
+**Essential Information:**
+- [ ] Strategy name and type are clearly defined
+- [ ] Market type and assets are specified
+- [ ] Timeframe(s) are indicated
+
+**Strategy Logic:**
+- [ ] Core concept is explained (why this edge should exist)
+- [ ] Signal generation has step-by-step logic
+- [ ] Entry/exit rules are unambiguous
+- [ ] All indicator parameters include specific numbers (periods, thresholds, multipliers)
+
+**Risk Management:**
+- [ ] Stop loss logic is defined
+- [ ] Take profit or exit logic is specified
+- [ ] Position sizing method is stated
+- [ ] Leverage amount is specified
+
+**Data & Constraints:**
+- [ ] Required data sources are listed
+- [ ] Minimum lookback period is specified
+- [ ] Known limitations or assumptions are documented
+
+**Quality Check:**
+- [ ] I've reviewed at least one example strategy
+- [ ] All sections are filled out (not just placeholders)
+- [ ] Logic can be understood by someone unfamiliar with my strategy
+
+---
+
 ### How to Use This Template
 
 - Fill out each section as clearly as possible
